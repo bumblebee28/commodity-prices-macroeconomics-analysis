@@ -63,7 +63,3 @@ Macroeconomic data was aligned to monthly frequency using interpolation to match
 - Statsmodels
 - Matplotlib, Seaborn
 - Scikit-learn
-
----
-
-## 📂 Repository Structure
